@@ -1,4 +1,4 @@
-class nti < Formula
+class Nti < Formula
   desc "A description of your project"
   homepage "https://github.com/pieter-duplessis/homebrew-tools"
   url "https://github.com/pieter-duplessis/homebrew-tools/releases/download/v0.3.0/nti_silicon.tar.gz"
