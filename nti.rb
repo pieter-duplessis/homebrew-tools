@@ -1,9 +1,9 @@
 class Nti < Formula
   desc "Notification tool for sending email, sms, and push notifications"
   homepage "https://github.com/pieter-duplessis/homebrew-tools"
-  url "https://github.com/pieter-duplessis/homebrew-tools/releases/download/v0.3.3/nti_aarch64-apple.tar.gz"
+  url "https://github.com/pieter-duplessis/homebrew-tools/releases/download/v0.3.4/nti_aarch64-apple.tar.gz"
   sha256 "1af1085c2a2df522b09197ee0d7ccf4cb22097104a6f627199ccfa6abc67d0e1"
-  version "0.3.3"
+  version "0.3.4"
   license "GNU AGPLv3"
 
   def install
