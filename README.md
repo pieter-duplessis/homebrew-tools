@@ -2,10 +2,14 @@
 Homebrew Tools for making a few things easier
 
 ## Index of Tools:
+- geny
 - nti
 - RPLog
 
 ## Tool Details
+### geny
+A tool that will help generate code for your project based off of template files
+
 ### nti
 A tool to help with sending notifications through Email, SMS, and Push Notifications.
 
